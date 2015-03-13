@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/GlobalTweetsAnalysis/google-gson-2.2.4-release/google-gson-2.2.4/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="E:/GlobalTweetsAnalysis/lib/twitter4j-core-4.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/GlobalTweetsAnalysis/lib/twitter4j-stream-4.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/GlobalTweetsAnalysis/lightcouch-0.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/GlobalTweetsAnalysis/httpclient-4.3.3.jar"/>
+	<classpathentry kind="lib" path="E:/GlobalTweetsAnalysis/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="E:/GlobalTweetsAnalysis/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="E:/GlobalTweetsAnalysis/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
